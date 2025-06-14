@@ -1,4 +1,4 @@
-﻿package com.AsabaHarumasa.elementalreactions;
+package com.AsabaHarumasa.elementalreactions;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.entity.player.ClientPlayerEntity;

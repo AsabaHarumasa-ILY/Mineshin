@@ -1,4 +1,4 @@
-﻿package com.AsabaHarumasa.elementalreactions;
+package com.AsabaHarumasa.elementalreactions;
 
 import com.mojang.blaze3d.matrix.MatrixStack;
 import net.minecraft.client.Minecraft;

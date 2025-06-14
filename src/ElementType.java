@@ -1,4 +1,4 @@
-﻿package com.AsabaHarumasa.elementalreactions;
+package com.AsabaHarumasa.elementalreactions;
 
 import net.minecraft.particles.IParticleData;
 import net.minecraft.particles.ParticleTypes;

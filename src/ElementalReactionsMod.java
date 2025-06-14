@@ -1,4 +1,4 @@
-﻿package com.AsabaHarumasa.elementalreactions;
+package com.AsabaHarumasa.elementalreactions;
 
 import com.AsabaHarumasa.elementalreactions.event.ElementalAttackHandler;
 import com.AsabaHarumasa.elementalreactions.event.ElementalInteractionHandler;

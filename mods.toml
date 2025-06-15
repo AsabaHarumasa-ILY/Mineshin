@@ -1,0 +1,26 @@
+﻿modLoader="javafml"
+loaderVersion="[36,)"
+license="GPL-3.0"
+issueTrackerURL="https://gitee.com/Asaba_Harumasa/Mineshin/issues"
+
+[[mods]]
+modId="elementalreactions"
+version="${file.jarVersion}"
+displayName="原神：元素反应"
+description='''在MC中添加了一个以《原神》游戏中的元素反应系统为蓝本的模组，支持全套粒子特效，添加了七种基础元素系统（水、火、雷、冰、风、草、岩），以及基于原神规则的元素反应（蒸发、融化、超导、扩散、感电等）。'''
+authors="Asaba Harumasa"
+logoFile="assets/elementalreactions/textures/logo.png"
+
+[[dependencies.elementalreactions]]
+    modId="forge"
+    versionRange="[36.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.elementalreactions]]
+    modId="minecraft"
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+

@@ -1,0 +1,16 @@
+﻿{
+  "elemental_reaction": {
+    "sounds": [
+      "elementalreactions:reaction_trigger"
+    ],
+    "subtitle": "subtitles.elementalreactions.reaction"
+  },
+  "element_attach": {
+    "sounds": [
+      "elementalreactions:element_attach"
+    ],
+    "subtitle": "subtitles.elementalreactions.element_attach"
+  }
+}
+
+
